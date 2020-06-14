@@ -1,3 +1,7 @@
+# Get tokens for Google Home Foyer API
+# https://gist.github.com/rithvikvibhu/952f83ea656c6782fbd0f1645059055d
+
+
 from gpsoauth import perform_master_login, perform_oauth
 from uuid import getnode as getmac
 
